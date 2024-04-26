@@ -38,4 +38,4 @@ Both of these files are available in our GitHub repository
 - The code generates visualizations of mask detection results on test images.
 - It also outputs performance metrics such as accuracy during model training.
 
-  ![OutputImage](/Output.png)
+  ![OutputImage](/img.png)
